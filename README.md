@@ -1,5 +1,7 @@
 # astro-blog
 
+`https://dj-mc.netlify.app/`
+
 ## Using Astro
 
 ```bash
